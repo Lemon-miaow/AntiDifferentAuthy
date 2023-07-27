@@ -1,0 +1,3 @@
+name: AntiDiffAuthy
+version: '${project.version}'
+main: xyz.lemonmiaow.antidiffauthy.AntiDiffAuthy
